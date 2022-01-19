@@ -148,32 +148,6 @@ namespace TQN
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="tqnguyen19it3 :: Top Langs" /></p>
 
-## <p align="center">Profile stats :musical_keyboard:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="tqnguyen19it3 :: Profile Stats" /></p>
-
-## <p align="center">Repository pin 📌</p>
-
-<p align="center">	
-<a href="https://github.com/tqnguyen19it3/Popular-News">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/tqnguyen19it3/NVSportsFootball">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-</p>
-
-<p align="center">	
-<a href="https://github.com/tqnguyen19it3/GreenService" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/tqnguyen19it3/ShopDoDaMyNghe">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-</p>
-
 <hr>
 <br>
 
