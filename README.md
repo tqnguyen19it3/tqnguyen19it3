@@ -17,7 +17,7 @@ namespace TQN
         {
             string Name = "Trần Quốc Nguyên";
             string Age = "2001";
-            string Gender = "Male";
+            string Gender = "Nam";
             string Address = "Đà Nẵng, Việt Nam";
             string University = "Trường Đại học Công nghệ Thông Tin - Truyền Thông Việt Hàn";
             string Skills = "HTML5, CSS3, JavaScript, Bootstrap4, Python Flask, PHP Laravel";
