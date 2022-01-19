@@ -9,7 +9,7 @@
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace TQN
 {
     class tqnguyen
     {
@@ -155,21 +155,21 @@ namespace TNT
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
+<a href="https://github.com/tqnguyen19it3/Popular-News">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
+<a href="https://github.com/tqnguyen19it3/NVSportsFootball">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
+<a href="https://github.com/tqnguyen19it3/GreenService" margin="100">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
+<a href="https://github.com/tqnguyen19it3/ShopDoDaMyNghe">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
