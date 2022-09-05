@@ -20,7 +20,7 @@ namespace TQN
             string Gender = "Nam";
             string Address = "Đà Nẵng, Việt Nam";
             string University = "Trường Đại học Công nghệ Thông Tin - Truyền Thông Việt Hàn";
-            string Skills = "HTML5, CSS3, JavaScript, Bootstrap4, Python Flask, PHP Laravel";
+            string Skills = "HTML5, CSS3, JavaScript, Bootstrap4, Python Flask, PHP Laravel, NodeJS";
             string FamousQuotes = "No Codes = No Fun = No Hope (IT lập trình = Google & Stackoverflow, Github,... & Ctrl+C & Ctrl+V!)";
         }
     }
