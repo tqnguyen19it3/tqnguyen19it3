@@ -8,23 +8,19 @@
 
 <h2 align="center">About me</h2>
 
-```C#
-namespace TQN
-{
-    class tqnguyen
-    {
-        static void Main(string[] args)
-        {
-            string Name = "Trần Quốc Nguyên";
-            string Age = "2001";
-            string Gender = "Nam";
-            string Address = "Đà Nẵng, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - Truyền Thông Việt Hàn";
-            string Skills = "HTML5, CSS3, JavaScript, Bootstrap4, Python Flask, PHP Laravel, NodeJS";
-            string FamousQuotes = "No Codes = No Fun = No Hope (IT lập trình = Google & Stackoverflow, Github,... & Ctrl+C & Ctrl+V!)";
+```JS
+    const tqnguyen = {
+            name : "Trần Quốc Nguyên",
+	    born : "2001-9-25",
+            gender : "Nam",
+            address : "Đà Nẵng, Việt Nam",
+            university : "Trường Đại học Công nghệ Thông Tin - Truyền Thông Việt Hàn",
+            skills : "HTML5, CSS3, JavaScript, Bootstrap4, C#, PHP Laravel, NodeJS",
+            famousQuotes : "No Codes = No Fun = No Hope (IT lập trình = Google & Stackoverflow, Github,... & Ctrl+C & Ctrl+V!)",
+	    getAge : function(){
+	   	return Math.floor((new Date() - new Date(this.born).getTime()) / 3.15576e+10)
+	    }
         }
-    }
-}
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
@@ -63,7 +59,7 @@ namespace TQN
   </a>
 </p>
 
-## <p align="center">What I use :alien:</p>
+<!-- ## <p align="center">What I use :alien:</p>
 
 <table align="center">
   <tbody>
@@ -133,20 +129,20 @@ namespace TQN
     </tr>
   </tbody>
 </table>
-
+ -->
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/tqnguyen19it3/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/tqnguyen19it3/count.svg" alt="Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=tqnguyen19it3&theme=tokyonight&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="tqnguyen19it3 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqnguyen19it3&langs_count=10&theme=tokyonight&layout=compact" alt="tqnguyen19it3 :: Top Langs" /></p>
 
 <hr>
 <br>
